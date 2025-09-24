@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with the
+# -o option to specify an output file.
+*.out
+
+# Go workspace file
+go.work
+
+# Google API credentials
+credentials.json
+token.json
