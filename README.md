@@ -5,7 +5,7 @@ This is an AI-powered agent that automates the process of financial analysis and
 ## Features
 
 -   **Automated Data Collection**: Automatically reads data from specified Google Sheets.
--   **AI-Powered Analysis**: Leverages the Gemini 1.5 Flash model to generate insightful financial summaries.
+-   **AI-Powered Analysis**: Leverages the Gemini 1.5 Flash model (can be changed) to generate insightful financial summaries.
 -   **Automated Reporting**: Creates a new Google Sheet with the generated financial summary.
 -   **Email Notifications**: Sends an email notification with a link to the report.
 -   **Secure Authentication**: Uses OAuth 2.0 to securely access Google services.
